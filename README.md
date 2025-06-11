@@ -1,8 +1,31 @@
-# React + Vite
+# # 🍕 First React Pizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and modern pizza ordering web application built with **React** and **Vite**. This project is a frontend-focused practice app to explore React features like components, hooks, forms, and routing.
 
-Currently, two official plugins are available:
+## 🚀 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live preview: [https://[https://first-react-pizza.vercel.app/](https://first-react-pizza.vercel.app/)
+
+
+---
+
+## 📦 Tech Stack
+
+- ⚛️ **React**
+- ⚡ **Vite**
+- 🎨 **CSS / Tailwind **
+- 📁 **Component-based architecture**
+- 🗃️ Redux (for global state management)
+
+---
+
+## 🖥️ Features
+
+- 🍕 Browse a list of pizzas
+- 🛒 View order summary
+- 📱 semi Responsive design
+- 🚀 Fast dev experience with Vite
+
+
+
+
